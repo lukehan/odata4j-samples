@@ -1,0 +1,5 @@
+syntax: glob
+odata4j-appengine/war/WEB-INF/classes
+
+syntax: regexp
+odata4j-appengine/war/WEB-INF/lib/(?!odata).+
